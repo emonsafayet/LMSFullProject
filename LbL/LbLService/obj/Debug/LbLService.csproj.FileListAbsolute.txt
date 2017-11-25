@@ -24,10 +24,13 @@ C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\De
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\EntityFramework.dll
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.Repository.dll
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.ViewModel.dll
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbLModel.dll
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbLRequestModel.dll
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.Repository.pdb
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.Repository.dll.config
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.ViewModel.pdb
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.ViewModel.dll.config
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbLModel.pdb
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbLModel.dll.config
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbLRequestModel.pdb
@@ -38,6 +41,3 @@ C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\obj\De
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\obj\Debug\LbLService.csproj.CoreCompileInputs.cache
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\obj\Debug\LbLService.dll
 C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\obj\Debug\LbLService.pdb
-C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.ViewModel.dll
-C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.ViewModel.pdb
-C:\Users\safayet\Documents\Visual Studio 2017\Projects\LBL\LbL\LbLService\bin\Debug\LbL.ViewModel.dll.config

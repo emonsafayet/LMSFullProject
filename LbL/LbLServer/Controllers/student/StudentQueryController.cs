@@ -17,7 +17,7 @@ namespace LbLServer.Controllers.student
         {
             //searching machanism.
             StudentService service = new StudentService();
-            List<Student> students= service.Search(request);
+           var students= service.Search(request);
             return this.Ok(students);
         }
     }

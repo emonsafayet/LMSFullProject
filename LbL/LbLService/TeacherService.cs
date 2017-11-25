@@ -10,10 +10,10 @@ namespace LbLService
 {
     public class TeacherService
     {
-        //public bool Add(Teacher teacher)
-        //{
-        //    //TeacherService tRepository = new TeacherService();
-        //    //return tRepository.Add(teacher);
-        //}
+        public  void Temp()
+        {
+            BaseRepository<Teacher> teaceherRepository = new BaseRepository<Teacher>();
+            IQueryable<Teacher> teachers = teaceherRepository.Get();
+        }
     }
 }
